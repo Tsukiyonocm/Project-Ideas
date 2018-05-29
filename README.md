@@ -27,17 +27,13 @@ Will be using HTML/CSS/Vanilla JS for the basic setup and the programming of the
 3. Create basic functionality with JS
 
 Will add more details once the project is more thought out.
-  
-
-
-
+<br>
+<br>
 ---
 ## Project Headers Template ##
 ---
-  
-
-
-  
+<br>
+<br>
 ## Insert Project Name Here ##
   
 ##### Expected Start/End Times #####
