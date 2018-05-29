@@ -4,8 +4,8 @@
 
 ##### Expected Start/End Times #####
 ---
-Start Date: June 2018  
-End Date: December 2018
+**Start Date**: June 2018  
+**End Date**: December 2018
 
 #####  Project Preview #####
 A simple project in which I will have multiple input fields in order to save my contact information of friends/family. This will be saved into a database which will be able to be called upon and sorted by category. 
@@ -39,8 +39,8 @@ Will add more details once the project is more thought out.
 ## Insert Project Name Here ##
 
 ##### Expected Start/End Times #####
-Start Date: Insert Date  
-End Date: Insert Date
+**Start Date**: Insert Date  
+**End Date**: Insert Date
 
 
 #####  Project Preview #####
