@@ -29,11 +29,16 @@ Will be using HTML/CSS/Vanilla JS for the basic setup and the programming of the
 Will add more details once the project is more thought out.
 <br>
 <br>
+<br>
+<br>
+
 ---
 ## Project Headers Template ##
 ---
+
 <br>
 <br>
+
 ## Insert Project Name Here ##
   
 ##### Expected Start/End Times #####
