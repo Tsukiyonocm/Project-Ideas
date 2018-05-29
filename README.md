@@ -4,7 +4,7 @@
 
 ##### Expected Start/End Times #####
 ---
-Start Date: June 2018
+Start Date: June 2018  
 End Date: December 2018
 
 #####  Project Preview #####
@@ -39,7 +39,7 @@ Will add more details once the project is more thought out.
 ## Insert Project Name Here ##
 
 ##### Expected Start/End Times #####
-Start Date: Insert Date
+Start Date: Insert Date  
 End Date: Insert Date
 
 
